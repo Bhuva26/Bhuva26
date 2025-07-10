@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Bhuvaneshwari
 
-<!--
-**Bhuva26/Bhuva26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & DS Student at Kongu Engineering College (Batch: 2023–2027)  
+💻 Full-Stack Developer passionate about building end-to-end web applications  
+🚀 Built projects using the MERN stack and Java  
+📊 Exploring Data Science and Machine Learning  
+🌐 I love building tools that solve real-world problems
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: React.js, HTML, CSS, JavaScript  
+- Backend: Node.js, Express.js, MongoDB  
+- Languages: Java, Python  
+- Tools: Git, GitHub, Postman, VS Code, Eclipse  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Bus Ticket Reservation System (MERN)** – Full-stack project for booking bus tickets with CRUD features  
+- **Expense Tracker App** – A deployed app to manage and track expenses in real time  
+- Java-based console and GUI projects  
+- Coming soon: Machine Lear
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- Email: your.email@example.com
+
