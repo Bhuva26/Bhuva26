@@ -20,5 +20,5 @@
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
-- Email: your.email@example.com
+- Email: bhuvaneshwari2612006@gmail.com
 
