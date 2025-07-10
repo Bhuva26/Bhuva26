@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Bhuvaneshwari
 
-🎓 AI & DS Student at Kongu Engineering College (Batch: 2023–2027)  
+🎓 AI & DS Student at Kongu Engineering College 
 💻 Full-Stack Developer passionate about building end-to-end web applications  
 🚀 Built projects using the MERN stack and Java  
 📊 Exploring Data Science and Machine Learning  
