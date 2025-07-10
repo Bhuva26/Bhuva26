@@ -19,6 +19,6 @@
 - Coming soon: Machine Lear
 
 ## 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/bhuvaneshwari-m-a295792a6/))  
 - Email: bhuvaneshwari2612006@gmail.com
 
