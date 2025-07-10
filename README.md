@@ -10,7 +10,7 @@
 - Frontend: React.js, HTML, CSS, JavaScript  
 - Backend: Node.js, Express.js, MongoDB  
 - Languages: Java, Python  
-- Tools: Git, GitHub, Postman, VS Code, Eclipse  
+- Tools: Git, GitHub, Postman, VS Code  
 
 ## 📌 Projects
 - **Bus Ticket Reservation System (MERN)** – Full-stack project for booking bus tickets with CRUD features  
