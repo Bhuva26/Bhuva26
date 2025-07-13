@@ -16,7 +16,7 @@
 - **Bus Ticket Reservation System (MERN)** – Full-stack project for booking bus tickets with CRUD features  
 - **Expense Tracker App** – A deployed app to manage and track expenses in real time  
 - Java-based console and GUI projects  
-- Coming soon: Machine Lear
+- Coming soon: Machine Learning mini projects!
 
 ## 📫 Connect with me:
 - [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/bhuvaneshwari-m-a295792a6/))  
